@@ -4,7 +4,8 @@
 ##  What is ifcOWL?
 - ifcOWL provides a Web Ontology Language (OWL) representation of the Industry Foundation Classes (IFC) schema. IFC is the open standard for representing building and construction data (see BuildingSMART). The ifcOWL ontology has the same status as the EXPRESS and XSD schemas of IFC.
 
-![](images/expressxsdowl-300x192-300x192.png)
+
+![image info](Images/expressxsdowl-300x192-300x192.png)
 
 https://technical.buildingsmart.org/standards/ifc/ifc-formats/ifcowl/
 
@@ -24,9 +25,13 @@ Using the ifcOWL ontology, one can represent building data using state of the ar
 
   Immerse yourself in the world of IFC models using the JupyterIFCRenderer, enabling you to load and interactively visualize these complex structures.
 
-  
+  ![image info](Images/1.jpeg)
+
 
 - **Step 3: Processing RDF Data for Sensor Information**
+
+    ![image info](Images/2.jpeg)
+
 
   Embark on a journey of discovery by selecting spaces interactively and importing RDF data from a file. Learn the art of extracting vital information about rooms and their associated sensors through the use of SPARQL queries. See how to display comprehensive information about selected rooms and their corresponding sensors.
 
